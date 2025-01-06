@@ -147,6 +147,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.standingpad.org/mastodon-costs/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.standingpad.org/mastodon-costs/december-2024/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.standingpad.org/mastodon-costs/november-2024/</loc>
+    <lastmod>2024-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.standingpad.org/posts/2023/12/new-years/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
