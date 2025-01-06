@@ -32,7 +32,13 @@
   name = "Email Blocklist"
   parent = "Resources"
   url = "/email-shame-list"
-  weight = 36
+  weight = 35
+
+[[main]]
+  name = "Mastodon Costs"
+  parent = "Resources"
+  url = "/mastodon-costs"
+  weight = 31
 
 [[main]]
   name = "Privacy Policy"
