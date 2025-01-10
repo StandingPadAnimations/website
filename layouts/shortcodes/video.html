@@ -10,6 +10,7 @@
 */ -}}
 
 {{- $video_src := .Get "src" -}}
+{{- $width := "100%" -}}
 {{ $unique_id := substr (md5 $video_src) 0 16 }}
 {{ $id := (printf "plyr_%s" $unique_id)}}
 
