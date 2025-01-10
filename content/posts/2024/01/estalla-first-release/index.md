@@ -8,7 +8,7 @@ I'm proud to announce a new addon called Estella, which aims to improve working 
 
 As we know, Blender's light linking UI isn't really the best, as it requires selecting lights individually. That might be ok for a small scene, but what about a large scene with tons of lights? That's where Estella really shines.
 
-{{< video src="gallary/showcase.webm" alt="Showcasing Estella's light linking UI" autoplay="true" loop="true" >}}
+{{< video src="https://cdn.standingpad.org/2024-01-estalla-first-release/showcase.webm" alt="Showcasing Estella's light linking UI" autoplay="true" loop="true" >}}
 
 The light linking UI for Estella is based on Maya's UI, which does light linking extremely well.
 {{< image src="gallary/relationship_editor.png" alt="Maya's light linking UI" position="center" style="border-radius: 8px;" >}}
@@ -22,7 +22,7 @@ Estella also improves light groups by providing features that Blender doesn't. T
 - etc
 
 Through this, Estella is able to turn light groups from a clunky to an absolute joy to use. 
-{{< video src="gallary/groups.webm" alt="Showcasing Estella's light linking UI" autoplay="true" loop="true" >}}
+{{< video src="https://cdn.standingpad.org/2024-01-estalla-first-release/groups.webm" alt="Showcasing Estella's light linking UI" autoplay="true" loop="true" >}}
 
 Estella's GitHub repo and first release can be found below, cheers!
 {{< fancy-github repo="StandingPadAnimations/Estella" >}}
