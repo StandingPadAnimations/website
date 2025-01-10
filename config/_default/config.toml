@@ -30,11 +30,7 @@ buildFuture = false
   priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "NSFW"]
-
-[outputFormats.nsfw]
-  mediaType = "application/rss+xml"
-  baseName = "nsfw"
+  home = ["HTML", "RSS", "JSON"]
 
 [related]
   threshold = 0
