@@ -1,4 +1,8 @@
-default: build commit
+default: commit build deploy
+
+# Deploy to server
+deploy:
+  rsync -avz --delete docs/ website@hetzner-reg:~/www
 
 # Build in the Docs folder
 build:
