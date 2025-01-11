@@ -58,11 +58,11 @@ To The Lighting Guide!
 
 An old water shader I made that emulates the look of water in RTX Minecraft.
 
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/WaterShaderCyclesX.blend" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/WaterShaderCyclesX.blend" >}}
 Download
 {{< /button >}}
 \
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/WaterShaderCyclesX.blend.sig" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/WaterShaderCyclesX.blend.sig" >}}
 Signature File
 {{< /button >}}
 
@@ -72,11 +72,11 @@ My second attempt to make a RTX Minecraft style water shader, this time being mu
 
 {{< article link="/posts/2023/06/rtx-water-shader-2/" >}}
 
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/water-shader.blend" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/water-shader.blend" >}}
 Download
 {{< /button >}}
 \
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/water-shader.blend.sig" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/water-shader.blend.sig" >}}
 Signature File
 {{< /button >}}
 
@@ -86,11 +86,11 @@ Signature File
 An emission nodegroup with more options, as well as brightness in
 lumens instead of watts
 
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/Emit.blend" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/Emit.blend" >}}
 Download
 {{< /button >}}
 \
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/Emit.blend.sig" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/Emit.blend.sig" >}}
 Signature File
 {{< /button >}}
 
@@ -100,11 +100,11 @@ Custom rig I created for my own use. **Please keep the license in mind
 when using this rig**
 {{< article link="/posts/2024/09/releasing-my-custom-rig/" >}}
 
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/StandingPad.Rig.zip" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/StandingPad.Rig.zip" >}}
 Download
 {{< /button >}}
 \
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/StandingPad.Rig.zip.sig" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/StandingPad.Rig.zip.sig" >}}
 Signature File
 {{< /button >}}
 
@@ -134,10 +134,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/OBJ-Optimizer.blend" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/OBJ-Optimizer.blend" >}}
 Download
 {{< /button >}}
 \
-{{< button target="https://github.com/StandingPadAnimations/StandingPadAnimations.github.io/releases/download/0.0.0/OBJ-Optimizer.blend.sig" >}}
+{{< button target="https://github.com/StandingPadAnimations/website/releases/download/0.0.0/OBJ-Optimizer.blend.sig" >}}
 Signature File
 {{< /button >}}
