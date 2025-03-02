@@ -8,6 +8,7 @@ deploy:
 build:
   hugo --destination docs
   npx tsx scripts/shikify.ts
+  python scripts/ai-nginx-block.py > docs/nginx.conf
 
 build-and-preview: build preview-built 
 preview-built: 

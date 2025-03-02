@@ -64,6 +64,9 @@ daniel.gonzalez@attendeesdata.info
 willie.scottexpolist@outlook.com
 charlotte69963@gmail.com
 emilykelleher28@gmail.com
+olivianoel91@gmail.com
+ah4m7ca9@metamask-secure.com
+emilykelleher28@gmail.com
 ```
 
 # App Developers
@@ -122,7 +125,8 @@ tanvisingh6pw@gmail.com
 Poonam-SEO@hotmail.com
 james@topsolarleads.com
 monuvermaxkkdff@gmail.com
-monuvermaxkkdff@gmail.com
+olivianoel91@gmail.com
+a.dana@maxsocials.shop
 ```
 
 # Crypto Scams
@@ -132,6 +136,9 @@ service@cb4c63617d.nxcli.io
 okx7@712e52eb5e.nxcli.io
 metamask83347@2fa.io
 emilykelleher28@gmail.com
+072l09hd@info.example.net
+monkeytheluffy660@gmail.com
+ah4m7ca9@metamask-secure.com
 ```
 
 # General Phishing Scams
@@ -154,6 +161,7 @@ adamsjacob507@gmail.com
 daniel.gonzalez@attendeesdata.info
 willie.scottexpolist@outlook.com
 charlotte69963@gmail.com
+emilykelleher28@gmail.com
 ```
 
 

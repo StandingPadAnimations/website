@@ -42,8 +42,8 @@ The following information is collected and retained:
 ### Goatcounter Instance Information
 
 The self-hosted instance of Goatcounter is ran with binaries directly from upstream,
-on a cloud server from [Hetzner](https://www.hetzner.com/), located in one of their
-US datacenters. The sha256 checksum and version of the Goatcounter binary as of writing
+on a cloud server from [Hetzner](https://www.hetzner.com/), located in Helsinki,
+Finland. The sha256 checksum and version of the Goatcounter binary as of writing
 is the following:
 
 ```bash
