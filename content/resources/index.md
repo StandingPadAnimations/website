@@ -18,7 +18,7 @@ If you use any of these assets, you must follow the terms of the BSD 3-Clause li
 ```txt
 BSD 3-Clause License
 
-Copyright (c) 2023-2024, Mahid Sheikh
+Copyright (c) 2023-2025, Mahid Sheikh
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
