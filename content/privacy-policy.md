@@ -12,7 +12,7 @@ showPagination: false
 ## Analytics
 
 ```txt
-Last updated: January 10th, 2025
+Last updated: June 10th, 2025
 ```
 
 StandingPad.org measures page traffic with a self-hosted instance of [GoatCounter](https://goatcounter.com),
@@ -48,8 +48,8 @@ is the following:
 
 ```bash
 $ sha256sum ~/bin/goatcounter
-21b4c09fa5050f4887781386b35daa8dda487cc83d427951bcd3db3225ac3656 ~/bin/goatcounter
+59868d627fde6b21199870729694920da8083c909fe8e4bf719a19ae30bcdc4f ~/bin/goatcounter
 
 $ ~/bin/goatcounter version
-version=v2.5.0; go=go1.21.5; GOOS=linux; GOARCH=amd64; race=false; cgo=true
+version=v2.6.0; go=go1.24.4; GOOS=linux; GOARCH=amd64; race=false; cgo=true
 ```
