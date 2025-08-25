@@ -1,29 +1,30 @@
-{{- /*  hugo-video shortcode
+{{- /* hugo-video shortcode
 /*
-/*    This file is part of hugo-video shortcode.
-/*    A Hugo component shortcode to embed videos using the HTML video element.
+/* This file is part of hugo-video shortcode.
+/* A Hugo component shortcode to embed videos using the HTML video element.
 /*
-/*    @copyright  @2019 onwards Nicolas Martignoni (nicolas@martignoni.net)
-/*    @source     https://github.com/martignoni/hugo-video
-/*    @license    https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+/* @copyright @2019 onwards Nicolas Martignoni (nicolas@martignoni.net)
+/* @source https://github.com/martignoni/hugo-video
+/* @license https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /*
 */ -}}
 
 {{- $video_src := .Get "src" -}}
 {{- $width := "100%" -}}
-{{- $video_dl := "" -}}
 {{ $unique_id := substr (md5 $video_src) 0 16 }}
 {{ $id := (printf "plyr_%s" $unique_id)}}
 
 {{ if not (.Page.Scratch.Get "plyr") }}
-  <link rel="stylesheet" href="/css/plyr.css" />
-  <script src="/js/plyr.min.js"></script>
-  {{ .Page.Scratch.Set "plyr" true }}
+<link rel="stylesheet" href="/css/plyr.css" />
+<script src="/js/plyr.min.js"></script>
+{{ .Page.Scratch.Set "plyr" true }}
 {{ end }}
 
-<video id="{{$id}}" {{ if ne (.Get "controls") "false" }}controls {{ end }}preload="auto" width="{{ or (.Get "width") $width }}" {{ with .Get "height" }}height="{{.}}"{{ end }} {{ if eq (.Get "autoplay") "true" }}autoplay {{ end }}{{ if eq (.Get "loop") "true" }}loop {{ end }}{{ if eq (.Get "muted") "true" }}muted {{ end }}playsinline class="html-video">
+<video id="{{$id}}" {{ if ne (.Get "controls" ) "false" }}controls {{ end }}preload="auto" width="{{ or (.Get " width")
+  $width }}" {{ with .Get "height" }}height="{{.}}" {{ end }} {{ if eq (.Get "autoplay" ) "true" }}autoplay {{ end }}{{
+  if eq (.Get "loop" ) "true" }}loop {{ end }}{{ if eq (.Get "muted" ) "true" }}muted {{ end }}playsinline
+  class="html-video">
   <source src="{{ $video_src }}" type={{ .Get "type" }}>
-  <span>{{ i18n "videoUnsupported" $video_dl | safeHTML}}</span>
 </video>
 <script>
   const {{$id | safeJS}} = new Plyr('#{{$id}}');
